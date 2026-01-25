@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Rohan Tomer and Erika Bosack are getting married in June 2026! This website
   should have all the details of the wedding; if you have any questions at all,
   please don't hesitate to reach out to Rohan and Erika!
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 domain: rohananderika.github.io
 url: https://rohananderika.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
